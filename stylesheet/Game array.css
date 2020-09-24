@@ -1,5 +1,6 @@
 body{
-	background-image: url(../img/sakura.jpg);
+	background-image: url(
+./testhiragana.github.io/img/sakura.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
